@@ -1,0 +1,68 @@
+# Nova Sorceress build
+
+Nova Sorceress used to be a classic build before the Nova's damage was reduced. Now this build returns in D2R due to its regained high damage.
+
+## Character stats
+
+- Strength: Likely no point needed when equipped with high-stat Torch and Annihilus
+- Dexterity: None
+- Vitality: Distribute stat points to Vitality and Energy such that life is slightly higher than mana
+- Energy: See Vitality
+
+## Skills
+
+Add 20 points to each of the following skills:
+- [Static Field](https://diablo.fandom.com/wiki/Static_Field) (main attack skill as it has very large range; also increase the damage of Nova)
+- [Nova](https://diablo.fandom.com/wiki/Nova_(Diablo_II)) (main attack skill)
+- [Lightning Mastery](https://diablo.fandom.com/wiki/Lightning_Mastery) (synergy skill to increase the damage of Nova)
+- [Telekinesis](https://diablo.fandom.com/wiki/Telekinesis_(Diablo_II)) (reduce consumption of mana with energy shield on)
+
+Add 1 point to each of the following skills:
+- [Energy Shield](https://diablo.fandom.com/wiki/Energy_Shield)
+- [Warmth](https://diablo.fandom.com/wiki/Warmth)
+- [Teleport](https://diablo.fandom.com/wiki/Teleport_(Diablo_II))
+- [Frozen Armor](https://diablo.fandom.com/wiki/Frozen_Armor)
+- all necessary passby skills
+
+Add all remaining points to
+- [Thunder Storm](https://diablo.fandom.com/wiki/Thunder_Storm) and then Energy Shield. Energy Shield is to convert certain percentage (80% would be enough) of received damage to mana rather than life.
+ 
+**Remark**: Nova makes a considerably large area damage but requires the character to be close to the targets during conflicts. This sorceress build has many surplus skill points and an Act II mercenary with Meditation Aura (by weilding a weapon with Insight runeword) to quickly regenerate the character's mana. Therefore, this build can use energy shield to greatly improves survivability. Having more life than mana makes the build immune to enemies' Blood Curse.
+ 
+## Gears
+
+- Weapon: Two-hand weapon with low strength requirement (such as Scythe) with [Infinity](https://diablo.fandom.com/wiki/Infinity_Rune_Word) runeword for its –55% Enemy Lightning Resistance and level 12 Conviction Aura (-85% Enemy Light/Fire/Cold Resistance, -17% for immune enemies).
+
+- Helm: [Griffon’s Eye](https://diablo.fandom.com/wiki/Griffon%27s_Eye) for its +1 All Skills, +25% Faster Cast Rate, and –20% Enemy Lightning Resistance. Socket a lightning facet for an additional –5% Enemy Lightning Resistance. 
+ 
+- Gloves: [Magefist](https://diablo.fandom.com/wiki/Magefist_(Diablo_II)) for its +1 Fire Skills (one Warmth skill slightly helps the regeneration of mana) and +20% Faster Cast Rate.  
+ 
+- Belt: [Arachnid Mesh](https://diablo.fandom.com/wiki/Arachnid_Mesh) for +1 All Skills and +20% Faster Cast Rate.
+ 
+- Armor: [Skin of the Vipermagi](https://diablo.fandom.com/wiki/Skin_of_the_Vipermagi) for +1 All Skills, +30% Faster Cast Rates, +35 All Resistance. Better with -13 received damage as the build uses energy shield and only a small percentage (usually less than 20%) of damage goes to life, which makes the minus received damage attribute useful. Add one socket with one Lightning Facet for -5% Enemy Light Resistance. 
+ 
+- Rings: [Stone of Jordan](https://diablo.fandom.com/wiki/Stone_of_Jordan_(Diablo_II)) on both hands, each providing +1 All Skills, 20 mana, and +25% Maximum Mana. 
+ 
+- Boots: Rare Boots with Lightning, Fire, and Poison Resistances. Additional +30% Faster Run/Walk Speed and +10% Faster Hit Recovery are also beneficial. Poison Length Reduction and Half Freeze Duration are also useful attributes. 
+ 
+- Amulet: Caster amulet with +2 Sorceress Skills, +10% Faster Cast Rate, some resistance on Lightning (more important than other elements), Fire, and Poison. Strength and life are also useful attributes. 
+ 
+- Switch Weapon and Shield: Crystal Sword or Flail with [Calls to Arms](https://diablo.fandom.com/wiki/Call_to_Arms_Rune_Word) runeword to bump all skills by 1 and life/mana for 60%+, and Monarch shield with Spirit runeword to increase the skill levels on Call of the Arm. 
+ 
+- Inventory: Sorceress Torch, Annihilus, Crack of the Heaven grand charm (the Lightning Sunder grand charm), 7 Lightning Skill grand charms with life or Faster Hit Recovery, All Resistance small charms with life or Faster Hit Recovery to make 43% Faster Hit Recovery, and max out Fire/Lightning/Poison resistances, and more life the better. 
+
+ 
+## Mercenary
+
+Use Act II Mercenary with [Prayer Aura](https://diablo.fandom.com/wiki/Prayer) and the following gears:
+- Weapon: Ethereal Thresher/Giant Thresher/Great Poleaxe with [Insight](https://diablo.fandom.com/wiki/Insight_Rune_Word) runeword for its [Meditation Aura](https://diablo.fandom.com/wiki/Meditation).
+- Helm: Ethereal helm with high defense and the [Cure](https://diablo.fandom.com/wiki/Cure_Rune_Word) runeword for its level 1 [Cleansing Aura](https://diablo.fandom.com/wiki/Cleansing) to reduce poison length,
+- Armor: Ethereal armor with high defense with the [Chains of Honor](https://diablo.fandom.com/wiki/Chains_of_Honor_Rune_Word) ruenword for boosting all resistance and life leech.
+
+**Remark**: The combination of [Andariel’s Visage](https://diablo.fandom.com/wiki/Andariel%27s_Visage_(Diablo_II)) and [Fortitude](https://diablo.fandom.com/wiki/Fortitude_Rune_Word) runeword can be an alternative for high defense at the cost of losing the Cleansing Aura.
+ 
+## Summary 
+- Attack: Cast Static Field 2 to 3 times and then Nova to clear out. Keep Thunderstorm on to help the killing. This build has -85% enemy lightning resistance and needs +105% Faster Cast Rate.
+- Survivability: The Fire, Light, and Poison resistances should be maxed out to 75%. The Cold resistance is at a high level over 30%. energy shields absorbs 80%+ of received damage.
+- Supply: Mana can be regenerated quickly with the Meditation Aura. The life can be slowly regenerated by the combination of Prayer Aura, Meditation Aura and Cleansing Aura from the mercenary. 
+ 
