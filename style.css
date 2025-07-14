@@ -1,4 +1,4 @@
-.github-link, .header a[href*="github.com"] {
+header h1 a {
   display: none;
 }
 
