@@ -1,7 +1,5 @@
-header h1 a[href*="github.io"] {
-  pointer-events: none;
-  text-decoration: none;
-  color: inherit;
+.github-link, .header a[href*="github.com"] {
+  display: none;
 }
 
 body {
