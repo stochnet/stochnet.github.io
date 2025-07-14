@@ -11,3 +11,7 @@ body {
   font-family: arial, sans-serif;
   font-size: 14px;
 }
+
+a:link {
+  color: #1E90FF;
+}
