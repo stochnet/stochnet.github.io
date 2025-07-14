@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Cold Sorceress build
 
 Cold Sorceress build is often used in early to mid game for the low gear cost and high magic find rate. With the cold sunder charm, this build can also perform well for late game now. However, unlike commonly recommended Blizzard and Frozen Orb builds, the build here mainly casts Glacial Spike and is more powerful and versatile.
