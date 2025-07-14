@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../style.css">
 
-**Back to the [build list](./build-list.html).**
+**Back to the [build list](./build-list.html)**
 
 # Fire Sorceress build
 
@@ -25,10 +25,10 @@ Add 20 points to each of the following skills:
 - [Hydra](https://diablo.fandom.com/wiki/Hydra_(Diablo_II)) (secondary attack skill, great for scouting and assisting Fire Ball).
 
 Add 1 point to each of the following skills:
-- [Warmth](https://diablo.fandom.com/wiki/Warmth).
-- [Static Field](https://diablo.fandom.com/wiki/Static_Field).
-- [Teleport](https://diablo.fandom.com/wiki/Teleport_(Diablo_II)).
-- [Frozen Armor](https://diablo.fandom.com/wiki/Frozen_Armor).
+- [Warmth](https://diablo.fandom.com/wiki/Warmth) (for faster mana regeneration).
+- [Static Field](https://diablo.fandom.com/wiki/Static_Field) (quickly slash surrounding enemies' life).
+- [Teleport](https://diablo.fandom.com/wiki/Teleport_(Diablo_II)) (for faster movement).
+- [Frozen Armor](https://diablo.fandom.com/wiki/Frozen_Armor) (for increased armor).
 - all necessary passby skills.
 
 **Remarks**: 
