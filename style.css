@@ -9,3 +9,7 @@ body {
 .site-header {
   display: none;
 }
+
+footer a[href*="github.com"] {
+  display: none;
+}
