@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../style.css">
 
-**Back to the [build list](./build-list.html)**
+**Back to the [main page](~) or [build list](./build-list.html)**
 
 # Fire Sorceress build
 
