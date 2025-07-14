@@ -11,7 +11,7 @@ This repository collects some best builds in [Diablo II Resurrected](https://dia
 
 ### Sorceress builds
 
-- [Fire Sorceress](https://github.com/august-ye/d2r/blob/main/fire-sorceress.md)
-- [Lightning Sorceress](https://github.com/august-ye/d2r/blob/main/lightning-sorceress.md)
-- [Nova Sorceress](https://github.com/august-ye/d2r/blob/main/nova-sorceress.md)
-- [Cold Sorceress](https://github.com/august-ye/d2r/blob/main/cold-sorceress.md)
+- [Fire Sorceress](./fire-sorceress.html)
+- [Lightning Sorceress](./lightning-sorceress.html)
+- [Nova Sorceress](./nova-sorceress.html)
+- [Cold Sorceress](./cold-sorceress.html)
