@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Fire Sorceress build
 
 Fire Sorceress has best balance of damage, survivability, and supply among all sorceress builds. Most gears for this build are cheap, making this build quite budget-friendly. 
