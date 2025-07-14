@@ -1,15 +1,17 @@
 <link rel="stylesheet" href="../style.css">
 
+**Back to the [main page](../README.html) or [build list](./build-list.html)**
+
 # Lightning Sorceress build
 
-Lightning Sorceress is a classic build for high damage. It becomes more versatile with the introduction of the Crack of the Heavens grand charm (lightning thunder grand charm). 
+Lightning Sorceress is a classic build for high damage. It becomes more versatile with the introduction of the Crack of the Heavens (aka the lightning sunder grand charm). 
 
 ## Character stats
 
-- Strength: A total of 156 with all gears/charms to weild the Monarch shield with Spirit runeword
-- Dexterity: None
-- Vitality: All other points
-- Energy: None
+- Strength: A total of 156 with all gears/charms to weild the Monarch shield with Spirit runeword.
+- Dexterity: None.
+- Vitality: All other points.
+- Energy: None.
 
 ## Skills
 
