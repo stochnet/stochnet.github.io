@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Best builds in Diablo II Resurrected (D2R)
 
 This repository collects some best builds in [Diablo II Resurrected](https://diablo2.blizzard.com/en-us/) game.
