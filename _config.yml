@@ -2,4 +2,4 @@ title: Welcome to the website of stochnet
 description: Personal website to archive fun gaming experiences
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/hacker@v0.2.0
