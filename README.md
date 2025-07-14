@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <link rel="stylesheet" href="style.css">
 
 # Personal website collecting fun gaming experiences
