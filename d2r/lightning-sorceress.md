@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Lightning Sorceress build
 
 Lightning Sorceress is a classic build for high damage. It becomes more versatile with the introduction of the Crack of the Heavens grand charm (lightning thunder grand charm). 
