@@ -1,15 +1,13 @@
+header h1 a[href*="github.io"] {
+  pointer-events: none;
+  text-decoration: none;
+  color: inherit;
+}
+
 body {
   margin: 25px;
   background-color: rgb(0,0,0);
   color: rgb(255,255,255);
   font-family: arial, sans-serif;
   font-size: 14px;
-}
-
-.site-header {
-  display: none;
-}
-
-footer a[href*="github.com"] {
-  display: none;
 }
