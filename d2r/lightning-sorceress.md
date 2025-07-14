@@ -1,10 +1,10 @@
 <link rel="stylesheet" href="../style.css">
 
-**Back to the [main page](../README.html) or [build list](./build-list.html)**
+**Back to the [main page](../index.html) or [build list](./build-list.html)**
 
 # Lightning Sorceress build
 
-Lightning Sorceress is a classic build for high damage. It becomes more versatile with the introduction of the Crack of the Heavens (aka the lightning sunder grand charm). 
+Lightning Sorceress is a classic build for high damage. It becomes more versatile with the introduction of the [Crack of the Heavens](https://diablo.fandom.com/wiki/Crack_of_the_Heavens) (aka the lightning sunder grand charm). 
 
 ## Character stats
 
@@ -23,17 +23,24 @@ Add 20 points to each of the following skills:
 - [Lightning Mastery](https://diablo.fandom.com/wiki/Lightning_Mastery) (synergy skill to increase the damage of Lightning and Chain Lightning)
 
 Add 1 point to each of the following skills:
-- [Warmth](https://diablo.fandom.com/wiki/Warmth)
-- [Static Field](https://diablo.fandom.com/wiki/Static_Field) 
-- [Teleport](https://diablo.fandom.com/wiki/Teleport_(Diablo_II))
-- [Frozen Armor](https://diablo.fandom.com/wiki/Frozen_Armor)
-- all necessary passby skills
+- [Warmth](https://diablo.fandom.com/wiki/Warmth) (increase mana regeneration).
+- [Static Field](https://diablo.fandom.com/wiki/Static_Field) (quickly reduce enemies' life).
+- [Teleport](https://diablo.fandom.com/wiki/Teleport_(Diablo_II)) (faster movement).
+- [Frozen Armor](https://diablo.fandom.com/wiki/Frozen_Armor) (increase defense).
+- all necessary passby skills.
 
 Add all remaining points to
 - Static Field
 
-**Remark**: Lightning has much higher damage at very low mana cost compared to Chain Lightning, however, the former can only attack enemies along the line of the lightning travels while the latter can jump to nearby enemies when travelling for area damage. It is more cost-effective to use Lightning more often than Chain Lightning. This requires a good positioning of the character when attacking a group of enemies. One should use Static Field a couple of times to reduce enemies' life before casting Lightning and Chain Lightning skills.  
+**Remarks**: 
+
+1. Lightning has much higher damage at very low mana cost compared to Chain Lightning, however, the former can only attack enemies along the line of the lightning travels while the latter can jump to nearby enemies when travelling for area damage. It is more cost-effective to use Lightning more often than Chain Lightning. This requires a good positioning of the character when attacking a group of enemies.
+  
+2. Player should cast Static Field a couple of times to reduce enemies' life before casting Lightning and Chain Lightning skills.
+
+3. This build does not have enough skill points to invest into Energy Shield and its synergy skill.
  
+
 ## Gears
 
 - Shield: Monarch shield with [Spirit](https://diablo.fandom.com/wiki/Spirit_Rune_Word) runeword: +2 All Skills, +35% Faster Cast Rate, +55% Faster Hit Recovery, +35% Lightning/Cold/Poison Resistance, +112 mana.
