@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../style.css">
+
 # Nova Sorceress build
 
 Nova Sorceress used to be a classic build before the Nova's damage was reduced. Now this build returns in D2R due to its regained high damage.
