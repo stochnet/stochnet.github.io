@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="../style.css">
 
 # Best builds in Diablo II Resurrected (D2R)
 
