@@ -63,23 +63,23 @@ Add 1 point to each of the following skills:
 - Inventory: Sorceress Torch, Annihilus, Flame Rift charm (aka the fire sunder grand charm), 7 Fire Skill grand charms with life or Faster Hit Recovery, All Resistance small charms with life or Faster Hit Recovery to make 42% Faster Hit Recovery, and max out Fire/Lightning/Poison resistances, and more life the better.  
 
 
-**Remarks**
+**Remarks:**
 
 1. Alternative weapon and amulet combination: If the sorceress orb above is not available, one can also use the [Eschuta’s Temper](https://diablo.fandom.com/wiki/Eschuta%27s_Temper) with +3 All Sorceress Skills, +40% Faster Cast Rate, and +1 socket with Fire Facet for -5% Enemy Fire Resistance. Then use [Mara's Kaleidoscope](https://diablo.fandom.com/wiki/Mara%27s_Kaleidoscope_(Diablo_II)) for its +2 All Skills and +30 All Resistances which also increase the skill levels on Call to Arms. The combination of Eschuta's Temper and Mara's aleidoscope has a little lower damage than the combination of magic orb and caster amulet above does, but is a lot cheaper than the latter.
 
 2. +25 fire skill levels: +3 from weapon, +3 from helm, +2 from amulet, +1 from armor, +1 from belt, +2 from rings, +1 from gloves, +3 from Torch, +1 from Annihilus, +7 from skill charms, and +1 from Battle Command on Call to Arms.
 
-3. -58% enemy fire resistance: -10% from weapon, -15% from helm, -25% from shield, and -5% from armor.
+3. -58% enemy fire resistance: -10% from weapon, -15% from helm, -28% from shield, and -5% from armor.
 
 4. +105% faster cast rate: +20% from weapon, +15% from amulet, +30% from armor, +20% from belt, and +20% from gloves.
 
-5. Weapon with 6 socketed fire facets: while it provides -30% enemy fire resistance (versus -10% on the magic orb), it does not have any faster cast rate and the only way to make this up is by replacing the two Stone of Jordan rings with rings having +10% faster cast rate. This choice sacrifice too many skill levels and is not worth it.
+5. Weapon with 6 socketed fire facets: while it provides -30% enemy fire resistance (versus -10% on the magic orb), it does not have any faster cast rate and the only way to make this up is by replacing the two Stone of Jordan rings with rings having +10% faster cast rate. This choice sacrifices too many skill levels and is not worth it.
 
-6. Armor with 4 socketed fire facets: for -20% enemy fire resistance (versus -5% on the Skin of the Vipermagi), such armor lacks +1 All Skills, +30% faster cast rate, and +35% all resistances which are too useful to sacrifice.
+6. Armor with 4 socketed fire facets: for -20% enemy fire resistance (versus -5% on the Skin of the Vipermagi), such armor lacks +1 All Skills, +30% faster cast rate, and +35% all resistances which are too useful to lose.
 
 7. Ormus' Robes: only provide +20% faster cast rate which means the sorceress has to replace one Stone of Jordan with some ring having +10% faster cast rate. Meanwhile, Ormus' Robes does not have any resistance. The benefit of having +3 Fire Ball skills cannot compensate the loss.
 
-8. Put Flickering Flame on mercenary: the sorceress will probably use a helm with +2 all skills, +20% faster cast rate, +2 socketed fire facet. This does not have the 10% maximum fire resistance, poison length reduction, half freeze duration, and only has -10% enemy fire resitance. Therefore, it is less preferred than wearing the Flickering Flame by the sorceress.
+8. Put Flickering Flame on mercenary: the sorceress will probably use a helm with +2 all skills, +20% faster cast rate, +2 socketed fire facet. This does not have the 10% maximum fire resistance, poison length reduction, half freeze duration, and only has -10% enemy fire resitance. Therefore, it is less preferred than putting the Flickering Flame on the sorceress.
 
 ## Mercenary
 
@@ -88,7 +88,11 @@ Use Act II Mercenary with [Defiance Aura](https://diablo.fandom.com/wiki/Defianc
 - Helm: Ethereal helm with high defense and the [Cure](https://diablo.fandom.com/wiki/Cure_Rune_Word) runeword for its level 1 [Cleansing Aura](https://diablo.fandom.com/wiki/Cleansing) to reduce poison length,
 - Armor: Ethereal armor with high defense with the [Chains of Honor](https://diablo.fandom.com/wiki/Chains_of_Honor_Rune_Word) ruenword for boosting all resistance and life leech.
 
-**Remark**: The combination of [Andariel’s Visage](https://diablo.fandom.com/wiki/Andariel%27s_Visage_(Diablo_II)) and [Fortitude](https://diablo.fandom.com/wiki/Fortitude_Rune_Word) runeword can be an alternative for high defense at the cost of losing the Cleansing Aura.
+**Remarks:** 
+
+1. The combination of [Andariel’s Visage](https://diablo.fandom.com/wiki/Andariel%27s_Visage_(Diablo_II)) and [Fortitude](https://diablo.fandom.com/wiki/Fortitude_Rune_Word) runeword can be an alternative for high defense at the cost of losing the Cleansing Aura.
+
+2. The [Holy Freeze Aura](https://diablo.fandom.com/wiki/Holy_Freeze) will freeze enemies which will not have corpses left after being killed. This makes negative effect to the Redemption Aura.
  
 
 ## Summary 
