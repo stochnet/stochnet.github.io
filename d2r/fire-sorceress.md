@@ -35,7 +35,7 @@ Add 1 point to each of the following skills:
 1. Hydra can be cast from distance and is particularly effective against Souls and Stygian Dolls which are very dangerous enemies.
 2. Meteor has high damage but it also has very long cooldown. It also takes a while for the meteors to fall and the enemies are probably mostly killed by then. Therefore it is not a useful skill in real battles.
 3. The player can cast [Enchant](https://diablo.fandom.com/wiki/Enchant) on allies to increase their physical damages. The duration is very long.
-4. The player can cast [Blaze](https://diablo.fandom.com/wiki/Blaze) right before returning town to increase the sorceress' run speed. This is helpful to save time since the sorceress cannot teleport in town. However Blaze has very short duration.
+4. The player can cast [Blaze](https://diablo.fandom.com/wiki/Blaze) right before returning town to increase the sorceress' run speed there. This is helpful to save time since the sorceress cannot teleport in town. However, Blaze has very short duration.
 
  
 ## Gears
@@ -77,7 +77,7 @@ Add 1 point to each of the following skills:
 
 6. Armor with 4 socketed fire facets: for -20% enemy fire resistance (versus -5% on the Skin of the Vipermagi), such armor lacks +1 All Skills, +30% faster cast rate, and +35% all resistances which are too useful to lose.
 
-7. Ormus' Robes: only provide +20% faster cast rate which means the sorceress has to replace one Stone of Jordan with some ring having +10% faster cast rate. Meanwhile, Ormus' Robes does not have any resistance. The benefit of having +3 Fire Ball skills cannot compensate the loss.
+7. Ormus' Robes: only provide +20% faster cast rate which means the sorceress has to replace either the amulet with one having +17% faster cast rate or one Stone of Jordan with some ring having +10% faster cast rate. Meanwhile, Ormus' Robes does not have any resistance and +1 all skill levels like the Skin of Vipermagi. The benefit of having +3 Fire Ball skills seems not enough to compensate the loss.
 
 8. Put Flickering Flame on mercenary: the sorceress will probably use a helm with +2 all skills, +20% faster cast rate, +2 socketed fire facet. This does not have the 10% maximum fire resistance, poison length reduction, half freeze duration, and only has -10% enemy fire resitance. Therefore, it is less preferred than putting the Flickering Flame on the sorceress.
 
