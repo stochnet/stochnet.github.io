@@ -85,7 +85,7 @@ Add 1 point to each of the following skills:
 
 Use Act II Mercenary with [Defiance Aura](https://diablo.fandom.com/wiki/Defiance) and the following gears:
 - Weapon: Ethereal Thresher/Giant Thresher/Great Poleaxe with [Infinity](https://diablo.fandom.com/wiki/Infinity_Rune_Word) runeword for its [Conviction Aura](https://diablo.fandom.com/wiki/Conviction).
-- Helm: Ethereal helm with high defense and the [Cure](https://diablo.fandom.com/wiki/Cure_Rune_Word) runeword for its level 1 [Cleansing Aura](https://diablo.fandom.com/wiki/Cleansing) to reduce poison length,
+- Helm: Ethereal helm with high defense and the [Cure](https://diablo.fandom.com/wiki/Cure_Rune_Word) runeword for its level 1 [Cleansing Aura](https://diablo.fandom.com/wiki/Cleansing) to reduce poison length and curse duration.
 - Armor: Ethereal armor with high defense with the [Chains of Honor](https://diablo.fandom.com/wiki/Chains_of_Honor_Rune_Word) ruenword for boosting all resistance and life leech.
 
 **Remarks:** 
