@@ -50,7 +50,7 @@ Add all remaining points to
  
 - Belt: [Arachnid Mesh](https://diablo.fandom.com/wiki/Arachnid_Mesh) for +1 All Skills and +20% Faster Cast Rate.
  
-- Armor: [Skin of the Vipermagi](https://diablo.fandom.com/wiki/Skin_of_the_Vipermagi) for +1 All Skills, +30% Faster Cast Rates, +35 All Resistance. Better with -13 received damage as the build uses energy shield and only a small percentage (usually less than 20%) of damage goes to life, which makes the minus received damage attribute useful. Add one socket with one Lightning Facet for -5% Enemy Light Resistance. 
+- Armor: [Skin of the Vipermagi](https://diablo.fandom.com/wiki/Skin_of_the_Vipermagi) for +1 All Skills, +30% Faster Cast Rates, +35 All Resistance. Better with -13 received damage as the build uses energy shield and only a small percentage (usually less than 20%) of damage goes to life, which makes the reduced damage attribute useful. Add one socket with one Lightning Facet for -5% Enemy Light Resistance. This armor should not be upgraded or it requires lots of strength.
  
 - Rings: [Stone of Jordan](https://diablo.fandom.com/wiki/Stone_of_Jordan_(Diablo_II)) on both hands, each providing +1 All Skills, 20 mana, and +25% Maximum Mana. 
  
@@ -62,12 +62,19 @@ Add all remaining points to
  
 - Inventory: Sorceress Torch, Annihilus, Crack of the Heaven grand charm (the Lightning Sunder grand charm), 7 Lightning Skill grand charms with life or Faster Hit Recovery, All Resistance small charms with life or Faster Hit Recovery to make 43% Faster Hit Recovery, and max out Fire/Lightning/Poison resistances, and more life the better. 
 
- 
+**Remarks**
+
+1. +19 lightning skills: 1 from helm, 2 from amulet, 1 from armor, 1 from belt, 2 from rings, 3 from Torch, 1 from Annihilus, 7 from skill grand charms, and 1 from Battle Command on Call to Arms.
+
+2. -85% enemy lightning resistance: -25% from helm, -55% from weapon, and -5% from armor.
+
+3. +105% faster cast rate: +25% from helm, +10% from amulet, +30% from armor, +20% from belt, and +20% from gloves.
+
 ## Mercenary
 
 Use Act II Mercenary with [Prayer Aura](https://diablo.fandom.com/wiki/Prayer) and the following gears:
 - Weapon: Ethereal Thresher/Giant Thresher/Great Poleaxe with [Insight](https://diablo.fandom.com/wiki/Insight_Rune_Word) runeword for its [Meditation Aura](https://diablo.fandom.com/wiki/Meditation).
-- Helm: Ethereal helm with high defense and the [Cure](https://diablo.fandom.com/wiki/Cure_Rune_Word) runeword for its level 1 [Cleansing Aura](https://diablo.fandom.com/wiki/Cleansing) to reduce poison length,
+- Helm: Ethereal helm with high defense and the [Cure](https://diablo.fandom.com/wiki/Cure_Rune_Word) runeword for its level 1 [Cleansing Aura](https://diablo.fandom.com/wiki/Cleansing) to reduce poison length and curse duration.
 - Armor: Ethereal armor with high defense with the [Chains of Honor](https://diablo.fandom.com/wiki/Chains_of_Honor_Rune_Word) ruenword for boosting all resistance and life leech.
 
 **Remark**: The combination of [Andariel’s Visage](https://diablo.fandom.com/wiki/Andariel%27s_Visage_(Diablo_II)) and [Fortitude](https://diablo.fandom.com/wiki/Fortitude_Rune_Word) runeword can be an alternative for high defense at the cost of losing the Cleansing Aura.
