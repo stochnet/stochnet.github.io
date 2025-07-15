@@ -1,23 +1,25 @@
 <link rel="stylesheet" href="../style.css">
 
+**Back to the [main page](../index.html) or [D2R build list](./build-list.html)**
+
 # Nova Sorceress build
 
 Nova Sorceress used to be a classic build before the Nova's damage was reduced. Now this build returns in D2R due to its regained high damage.
 
 ## Character stats
 
-- Strength: Likely no point needed when equipped with high-stat Torch and Annihilus
-- Dexterity: None
-- Vitality: Distribute stat points to Vitality and Energy such that life is slightly higher than mana
-- Energy: See Vitality
+- Strength: Likely no point needed when equipped with high-stat Torch and Annihilus.
+- Dexterity: None.
+- Vitality: Distribute stat points to Vitality and Energy such that life is slightly higher than mana.
+- Energy: See Vitality.
 
 ## Skills
 
 Add 20 points to each of the following skills:
-- [Static Field](https://diablo.fandom.com/wiki/Static_Field) (main attack skill as it has very large range; also increase the damage of Nova)
+- [Static Field](https://diablo.fandom.com/wiki/Static_Field) (main attack skill as it has very large effect range; also increase the damage of Nova)
 - [Nova](https://diablo.fandom.com/wiki/Nova_(Diablo_II)) (main attack skill)
-- [Lightning Mastery](https://diablo.fandom.com/wiki/Lightning_Mastery) (synergy skill to increase the damage of Nova)
-- [Telekinesis](https://diablo.fandom.com/wiki/Telekinesis_(Diablo_II)) (reduce consumption of mana with energy shield on)
+- [Lightning Mastery](https://diablo.fandom.com/wiki/Lightning_Mastery) (increase the damage of lightning skills)
+- [Telekinesis](https://diablo.fandom.com/wiki/Telekinesis_(Diablo_II)) (reduce consumption of mana from attacks with Energy Shield on)
 
 Add 1 point to each of the following skills:
 - [Energy Shield](https://diablo.fandom.com/wiki/Energy_Shield)
@@ -29,7 +31,14 @@ Add 1 point to each of the following skills:
 Add all remaining points to
 - [Thunder Storm](https://diablo.fandom.com/wiki/Thunder_Storm) and then Energy Shield. Energy Shield is to convert certain percentage (80% would be enough) of received damage to mana rather than life.
  
-**Remark**: Nova makes a considerably large area damage but requires the character to be close to the targets during conflicts. This sorceress build has many surplus skill points and an Act II mercenary with Meditation Aura (by weilding a weapon with Insight runeword) to quickly regenerate the character's mana. Therefore, this build can use energy shield to greatly improves survivability. Having more life than mana makes the build immune to enemies' Blood Curse.
+**Remarks**: 
+
+1. Nova makes a considerably large area damage, but requires the sorceress to be close to the targets during conflicts.
+2. Static Field has very high level for this build. Plus the lightning sundering and high reduction on enemies' lightning resistance, the sorcress can often reduce the life of enemies in a large range to (often less than) half with a few casts of Static Field.
+3. This sorceress build has many surplus skill points since Nova has Static Field as the only synergy skill. Hence it is wise to invest the remaining skill points to Energy Shield. In addition, an Act II mercenary with Meditation Aura (by wielding a weapon with [Insight](https://diablo.fandom.com/wiki/Insight_Rune_Word) runeword) to quickly regenerate mana.
+4. Investing all stat points to Energy can put maximum mana on sorceress, and her mana regeneration will consequently be very fast (the base regeneration rate is to recover full mana in 2 minutes, no matter what the maximum mana is, and faster regeneration increase the rate by the specified percentage). However, with maximum mana more than maximum life, the sorceress may suffer the curse of [Blood Mana](https://diablo.fandom.com/wiki/Blood_Mana) from Succubi and Baal, which consumes the sorceress' life instead of mana when she casts any spell. A means to avoid this is to invest both Vitality and Energy, such that life is a little more than mana with all gears/charms on. Another advantage of doing so is that Energy Shield can only reduce damage by 25%: With purely invested 20 points on Telekinesis, 1 point of damage consumed by Energy Shield only costs 0.75 mana. However, it does not benefit from any resistance of the sorceress. More life also helps to avoid sudden death when the Energy Shield is off.
+5. With Energy Shield on, only about 20% recieved damage goes to life. Therefore, a Skin of the Vipermagi with higher damage reduction is preferred.
+6. Thunder Storm makes periodic attacks to a single target. It can assist the sorceress in real battles.
  
 ## Gears
 
