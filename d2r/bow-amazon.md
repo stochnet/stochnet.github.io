@@ -59,30 +59,37 @@ Add 1 point to each of the following skills:
  
 - Switch Weapon and Shield: Crystal Sword or Flail with [Call to Arms](https://diablo.fandom.com/wiki/Call_to_Arms_Rune_Word) runeword to bump all skills by 1 and life/mana for 60%+, and https://diablo.fandom.com/wiki/Lidless_Wall_(Diablo_II) to increase the skill levels on Call to Arms. 
  
-- Inventory: Amazon Torch, Annihilus, Cold sunder charm, grand charms and small charms with +maximum damage, +life, and faster run/walk.
+- Inventory: Amazon Torch, Annihilus, Cold sunder charm, grand charms and small charms with maximum damage, life, faster run/walk, and resistance.
 
 **Remarks**
-1. Armor and Amulet combination: can also use an armor with +100 life and 4 socketed cold facets, which increase cold damage and reduce enemies cold resistance. Then change the amulet to one with +2 Sorceress Skills, +10% Faster Cast Rate, and some resistances, life, or strength.
+1. Faith Grand Matron Bow versus [Windforce](https://diablo.fandom.com/wiki/Windforce_(Diablo_II)): While Windforce has higher maximum damage and faster attack speed, it requires an Act I mecenary to wield Faith runeword but the increased damage has only half of the effect on Amazon as an ally. Moreover, Act I mecenaries do not provide any aura, and they freqently run away from the Amazon such that the latter is out of the range of the Fanaticism aura. Overall it is better that the Amazon holds the Faith by herself.
 
-2. +24 cold skill levels: +3 from weapon, +2 from helm, +2 from amulet, +2 from shield, +1 from belt, +2 from rings, +3 from Torch, +1 from Annihilus, +7 from skill charms, and +1 from Battle Order from Call to Arms.
+2. Grand Matron Bow has high damage but slow attack speed. Although Fanaticism aura provides IAS, the gloves Laying of Hands provide +20% IAS, the Amazon still needs another +75% IAS (a total of 95% IAS in addition to level 15 Fanaticism) to reach the breakpoint of the fastest attack speed (7 frames per shot). Therefore, the build needs 5 IAS jewels socketed to her gears in total. An armor can provide 4 sockets and a rare helm can provide up to 2 sockets (a magic helm can provide 3, but lack lots of attributes and hence is worse than a 2-socket rare helm).
 
-3. +75% cold damage: +35% from weapon, +20% from helm, and +20% from armor.
+3. The damage of this build depends on the minimum and maximum damage. Therefore, the goal is to maximize them. This is the reason of choosing the gloves, boots, and ring mentioned above.
 
-4. -15% enemy cold resistance: -5% from weapon, -5% from helm, -5% from armor. Note that Cold Mastery also reduce enemy cold resitance (every invested skill point reduce 5% cold restance to enemies which are not immune to cold, and 1% to those are). If using cold armor, then an additional -15% enemy cold resistance.
+4. In an 8-player game, monsters have 450% life than they do in a 1-player game (the monsters have 50% more life for every additional player in game, up to 350% more life due to the other 7 players). The Atma's Scarab is very useful as it has a 5% chance to spell level 5 Amplify Damage curse on enemies. Although the chance and level are low, the effect of reducing 100% physical resistance on enemies is very significant: most monsters in Hell Difficulty have +50% physical resistance; and that becomes -50% once Amplify Damage is applied, making the damage of the Amazon 3 times than before. This is essential for the Amazon to kill fast in a many-player game. WIth her very high IAS, the Amazon has a good chance to generate Amplify Damage, such as by spelling Strafe.
 
-5. +105% faster cast rate: +20% from weapon, +20% from armor, +35% from shield, +20% from belt, and +20% from gloves. If using cold armor, then just need +10% from amulet.
+5. It is necessary to have a good amount of resistance (especially fire and lightning) and life. After casting Battle Order from Call to Arms, the Amazon should have 1000+ life so that she won't die easily.
+
+6. With sufficient amount of life and mana leech (at least +5% on each), the Amazon can quickly gerenate life and mana in conflicts. The leeching does not apply to skeleton and works poorly for physcial-immune enemies, so use Magic Arrow in these cases.
+
+7. Since this build cannot teleport, it is very helpful to have high run speed. Amazons run fast already, but an additional 100% faster run/walk can make them move very fast. This is better than wearing an Enigma for its Teleport, since Amazons' spell cast rate is very low and Enigma does not increase physical damage.
+
+8. Raven Frost is a must for this build which prevents the Amazon from being slowed down (in both attack and move speed) by cold damage. For enemies with [Holy Freeze aura](https://diablo.fandom.com/wiki/Holy_Freeze) or [Decrepify](https://diablo.fandom.com/wiki/Decrepify), kill them first to get rid of those negative effects.
+
+9. The actual damage on a target is uniformly drawn between the minimum and maximum damages of the Amazon. While the average is the same by increase the same amount of minimum or maximum damages, smaller gap between them makes smaller variance and is more effective in real battles (large gap often results in some enemies being killed fast and some slow, requiring more shots overall).
  
 ## Mercenary
 
-Use Act II Mercenary with [Prayer Aura](https://diablo.fandom.com/wiki/Prayer) and the following gears:
-- Weapon: Ethereal Thresher/Giant Thresher/Great Poleaxe with [Insight](https://diablo.fandom.com/wiki/Insight_Rune_Word) runeword for its [Meditation Aura](https://diablo.fandom.com/wiki/Meditation).
-- Helm: Ethereal helm with high defense and the [Cure](https://diablo.fandom.com/wiki/Cure_Rune_Word) runeword for its level 1 [Cleansing Aura](https://diablo.fandom.com/wiki/Cleansing) to reduce poison length and curse duration.
-- Armor: Ethereal armor with high defense with the [Chains of Honor](https://diablo.fandom.com/wiki/Chains_of_Honor_Rune_Word) ruenword for boosting all resistance and life leech.
+Use Act II Mercenary with [Might](https://diablo.fandom.com/wiki/Might) and the following gears:
+- Weapon: Ethereal Thresher/Giant Thresher/Great Poleaxe with [Pride](https://diablo.fandom.com/wiki/Pride_Rune_Word) runeword for its level 20 [Concentration Aura](https://diablo.fandom.com/wiki/Concentration).
+- Helm: Ethereal [Andariel’s Visage](https://diablo.fandom.com/wiki/Andariel%27s_Visage_(Diablo_II)) for its added strength (to wear a Sacred Armor) and life leech.
+- Armor: Ethereal Scared Armor with [Fortitude](https://diablo.fandom.com/wiki/Fortitude_Rune_Word) runeword for high defense and resistance.
 
-**Remark**: The combination of [Andariel’s Visage](https://diablo.fandom.com/wiki/Andariel%27s_Visage_(Diablo_II)) and [Fortitude](https://diablo.fandom.com/wiki/Fortitude_Rune_Word) runeword can be an alternative for high defense at the cost of losing the Cleansing Aura.
  
 ## Summary 
-- Attack: Cast one Frozon Orb and several Glacial Spikes alternately. These two skills at 44+ levels and sufficient reduction of enemies' cold resistance at +105% Faster Cast Rate make huge damage.
-- Survivability: The Fire, Light, and Poison resistances should be maxed out to 75%. The Cold resistance is at a high level over 30%.
-- Supply: Mana can be regenerated quickly due to the Meditation Aura. The life can be slowly regenerated by the combination of Prayer Aura, Meditation Aura and Cleansing Aura from the mercenary. 
+- Attack: Frequently use Multiple Shot for large area damage and Strafe for scattered enemies. Use Guided Arrow against bosses. Use Magic Arrow against enemies immune to physical damages or cannot be leeched (like skeleton). C
+- Survivability: The Fire, Light, and Poison resistances should be maxed out to 75%. Can recover life by life leech.
+- Supply: Can recover mana by mana leech. 
  
