@@ -11,7 +11,13 @@ This repository collects some best builds in [Diablo II Resurrected](https://dia
 
 ## Best builds
 
-### Sorceress builds
+### Amazon
+
+- [Bow Amazon](./bow-amazon.md)
+- [Lightning Javelin Amazon](./lit-javelin-amazon.md)
+
+
+### Sorceress
 
 - [Fire Sorceress](./fire-sorceress.html)
 - [Lightning Sorceress](./lightning-sorceress.html)
