@@ -9,7 +9,7 @@ Lightning Javelin Amazon (Javazon for short hereafter) is a well-known for her i
 ## Character stats
 
 - Strength: A total of 156 with all gears/charms to wield the Monarch shield with Spirit runeword.
-- Dexterity: A total of 151 with all gears/charms to wield [Thunderstroke](https://diablo.fandom.com/wiki/Thunderstroke) javelin.
+- Dexterity: A total of 151 with all gears/charms to wield the [Thunderstroke](https://diablo.fandom.com/wiki/Thunderstroke) javelin.
 - Vitality: All other points.
 - Energy: None.
 
@@ -26,17 +26,17 @@ Add 1 point to each of the following skills:
 - [Dodge](https://diablo.fandom.com/wiki/Dodge_(Diablo_II)) (passive skill, increase chance of dodging melee attacks when standing still).
 - [Avoid](https://diablo.fandom.com/wiki/Avoid) (passive skill, increase chance of dodging ranged attacks when standing still; can spend more points if available).
 - [Evade](https://diablo.fandom.com/wiki/Evade) (passive skill, increase chance of dodging both melee and ranged attacks when moving).
-- [Pierce](https://diablo.fandom.com/wiki/Pierce) (increase the chance that arrows pierce through enemies, only need to reach the level with +66% chance)
+- [Pierce](https://diablo.fandom.com/wiki/Pierce) (increase the chance that javelins pierce through enemies; only need to reach the level with +66% chance)
 - all necessary passby skills.
 
 
 **Remarks**: 
 
-1. Lightning Fury is the main attack with large area damage and hence particualrly effective against large crowds, such as cows). When a thrown javelin hits a target, it splits as mutiple lightnings to nearby enemies, and they can further split to more lightnings. Also because of this, Lightning Fury is not very effective in the case where only few enemies present.
+1. Lightning Fury is the main attack with large area damage and hence particualrly effective against large crowds, such as cows. When a thrown javelin hits a target, it splits to mutiple lightnings to nearby enemies, and they can further split to more lightnings. Also because of this, Lightning Fury is not very effective in the case where only few enemies present.
   
-2. Pierce is useful to increase the number of lightnings and hence high pierce chance.
+2. Pierce is useful to increase the chance of pierce, which can result in more splits while using Lightning Fury.
 
-3. Charged Strike has very high damage on single target and can often kill act bosses in a second even in 8-player games.
+3. Charged Strike has very high damage on single targets and can often kill act bosses in a second even in 8-player games.
 
  
 
@@ -50,9 +50,9 @@ Add 1 point to each of the following skills:
  
 - Belt: [Razortail](https://diablo.fandom.com/wiki/Razortail) for its +33 piercing attack, +15 Dexterity, and +10 Maximum Damage.
  
-- Armor: [Enigma](https://diablo.fandom.com/wiki/Enigma_Rune_Word) for +1 Teleport, +2 All Skills, +45% Faster Run/Walk, +(character level * 0.75) Strength, +35 All Resistance, Increase Maximum Life 5%. Physical Damage Received Reduced By 8%, +14 Life After Each Kill, and +(character level) magic find are also useful attributes.
+- Armor: [Enigma](https://diablo.fandom.com/wiki/Enigma_Rune_Word) for +1 Teleport, +2 All Skills, +45% Faster Run/Walk, +(character level * 0.75) Strength. Increase Maximum Life 5%. Physical Damage Received Reduced By 8%, +14 Life After Each Kill, and +(character level) magic find are also useful attributes.
 
-- First ring: [Raven Frost](https://diablo.fandom.com/wiki/Raven_Frost) for its Cannot Be Frozen, +20 Dexterity, and Cold Damage (to slow down enemies).
+- First ring: [Raven Frost](https://diablo.fandom.com/wiki/Raven_Frost) for its Cannot Be Frozen and +20 Dexterity.
   
 - Second ring: Rare ring with 10% faster cast rate, mana/life leech, +1 mana after each kill, resistance (especially lightning), strength/dexterity, mana.
  
@@ -69,13 +69,18 @@ Add 1 point to each of the following skills:
 **Remarks**
 
 1. +24 javelin skill levels: +1 from helm, +1 from amulet, +2 from armor, +2 from shield, +4 from weapon, +2 from gloves, +3 from Torch, +1 from Annihilus, +7 from skill charms, and +1 from Battle Command on Call to Arms.
-2. -40% enemy lightning resistance: -25% from helm, -15% from weapon.
-3. +40% increased attack speed: +20% from gloves, +20% from amulet.
-4. +68% faster cast rate: +25% from helm, +35% from shield, +10% from ring.
-5. Thunderstroke versus [Titan's Revenge](https://diablo.fandom.com/wiki/Titan%27s_Revenge): Titan's Revenge is a usual choice for Javelin Amazon, with a major reason due to its greater quantity and self-replenish. However, Thunderstroke becomes better now since its quantity is increased, plus its reduction on enemy lightning resistance and increased attack speed.
-6. Amulet and ring combination: Can also use [Bul-Kathos' Wedding Band](https://diablo.fandom.com/wiki/Bul-Kathos'_Wedding_Band) for +1 All Skills and 5% life leech. This requires using a caster amulet for 8% faster cast rate (but this loses 20% increased attack speed from Highlord's Wrath). Since faster cast rate is only to slightly increase the Amazon's movement speed rather than her attack speed, Thunderstroke is better for increasing damage.
 
-8. Jewelers Monarch of Deflecting: 4 sockets with lightning facets (hence -20% enemy lightning resistance and +20% lightning damage), 30% faster block rate, and 20% increased chance of blocking. It provides more reduction on enemy lightning resistance. However, it requires more stat points in dexterity to reach the ideal 75% blocking rate, and needs mana and resistance from other gears and charms.
+2. -40% enemy lightning resistance: -25% from helm, -15% from weapon.
+
+3. +40% increased attack speed: +20% from gloves, +20% from amulet.
+
+4. +68% faster cast rate: +25% from helm, +35% from shield, +10% from ring.
+
+5. Thunderstroke versus [Titan's Revenge](https://diablo.fandom.com/wiki/Titan%27s_Revenge): Titan's Revenge used to be a common choice for Javelin Amazons, mainly due to its greater quantity and self-replenish. However, Thunderstroke becomes better now since its quantity has been increased to a usable level, plus its reduction on enemy lightning resistance and increased attack speed are very useful attributes to Javelin Amazons.
+
+6. Amulet and ring combination: Can also use [Bul-Kathos' Wedding Band](https://diablo.fandom.com/wiki/Bul-Kathos'_Wedding_Band) for +1 All Skills and 5% life leech. This requires using a caster amulet for 8% faster cast rate (but this loses 20% increased attack speed from Highlord's Wrath) which may also provide some mana leech for better effect. Since faster cast rate is only to slightly increase the Amazon's movement speed rather than her attack speed, Thunderstroke is better for increasing damage.
+
+7. Jewelers Monarch of Deflecting: 4 sockets with lightning facets (hence -20% enemy lightning resistance and +20% lightning damage), 30% faster block rate, and 20% increased chance of blocking. It provides more reduction on enemy lightning resistance. However, it requires more stat points in dexterity to reach the ideal 75% blocking rate. However, the Amazon needs mana and resistance from other gears and charms.
 
  
 ## Mercenary
