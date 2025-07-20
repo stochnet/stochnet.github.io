@@ -70,7 +70,7 @@ Add 1 point to each of the following skills:
 
 **Remarks**
 
-1. +24 combat skill levels: +2 from helm, +2 from amulet, +2 from armor, +4 from shield, +1 from belt, +1 from ring, +3 from Torch, +1 from Annihilus, +7 from skill charms, and +1 from Battle Command on Call to Arms.
+1. +27 combat skill levels: +2 from helm, +2 from amulet, +2 from armor, +3 from weapon, +4 from shield, +1 from belt, +1 from ring, +3 from Torch, +1 from Annihilus, +7 from skill charms, and +1 from Battle Command on Call to Arms.
 
 2. +125% faster cast rate: +20% from helm, +40% from weapon, +20% from gloves, +20% from belt, +15% from amulet, and 10% from ring.
 
