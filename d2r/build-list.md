@@ -18,11 +18,12 @@ This repository collects some best builds in [Diablo II Resurrected](https://dia
 
 ### Paladin
 
-- [Fist Hammer Paladin](./fist-hammer-paladin.md)
+- [Fist and Hammer Paladin](./fist-hammer-paladin.md)
 
 ### Necromancer
 
 - [Poison Nova Necromancer](./poison-nova-necromancer.md)
+- [Summoner Necromancer](./summoner-necromancer.md)
   
 ### Sorceress
 
