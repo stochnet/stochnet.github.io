@@ -16,6 +16,9 @@ This repository collects some best builds in [Diablo II Resurrected](https://dia
 - [Bow Amazon](./bow-amazon.md)
 - [Lightning Javelin Amazon](./lightning-javelin-amazon.md)
 
+### Paladin
+
+- [Fist Hammer Paladin](./fist-hammer-paladin.md)
 
 ### Sorceress
 
