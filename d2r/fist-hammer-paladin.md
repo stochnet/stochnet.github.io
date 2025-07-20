@@ -20,20 +20,15 @@ Maximizing the both Blessed Hammer and Fist of the Heavens and their synergy ski
 Add 20 points to each of the following skills:
 
 - [Fist of the Heavens](https://diablo.fandom.com/wiki/Fist_of_the_Heavens_(Diablo_II)) (main attack skill)
-
 - [Holy Bolt](https://diablo.fandom.com/wiki/Holy_Bolt) (synergy skill to Fist of the Heavens: +15% Holy Bolt damage per level).
-
 - [Blessed Hammer](https://diablo.fandom.com/wiki/Pierce) (secondary main attack skill).
-
 - [Vigor](https://diablo.fandom.com/wiki/Vigor) (synergy skill to Blessed Hammer: +14% magic damage per level).
-
 - [Blessed Aim](https://diablo.fandom.com/wiki/Blessed_Aim) (synergy skill to Blessed Hammer: +14% magic damage per level; may not be able to maximize this eventually).
 
 
 Add 1 point to each of the following skills:
 
 - [Concentration](https://diablo.fandom.com/wiki/Concentration) (synergy skill to Blessed Hammer: +50% of efficiency damage increase; essentially determines the actual chance that a hammer can hit a target).
-
 - all necessary passby skills.
 
 
