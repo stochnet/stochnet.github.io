@@ -15,54 +15,67 @@ Fist and Hammer Paladin is a great magic finder that can easily farm everywhere 
 
 ## Skills
 
+Maximizing the both Blessed Hammer and Fist of the Heavens and their synergy skills will require more than 110 skill points, which is more than a Paladin can have even at character level 99. Therefore, we can only maximize on of the two depending on preference. Below I choose to maximize Fist of the Heavens, since it often kills faster than Blessed Hammer.
+
 Add 20 points to each of the following skills:
 
-- [Blessed Hammer](https://diablo.fandom.com/wiki/Pierce) (main attack skill).
-- [Fist of the Heavens](https://diablo.fandom.com/wiki/Fist_of_the_Heavens_(Diablo_II)) (second main attack skill)
+- [Fist of the Heavens](https://diablo.fandom.com/wiki/Fist_of_the_Heavens_(Diablo_II)) (main attack skill)
+
+- [Holy Bolt](https://diablo.fandom.com/wiki/Holy_Bolt) (synergy skill to Fist of the Heavens: +15% Holy Bolt damage per level).
+
+- [Blessed Hammer](https://diablo.fandom.com/wiki/Pierce) (secondary main attack skill).
+
 - [Vigor](https://diablo.fandom.com/wiki/Vigor) (synergy skill to Blessed Hammer: +14% magic damage per level).
-- [Blessed Aim](https://diablo.fandom.com/wiki/Blessed_Aim) (synergy skill to Blessed Hammer: +14% magic damage per level).
-- [Concentration](https://diablo.fandom.com/wiki/Concentration) (synergy skill to Blessed Hammer: +50% of efficiency damage increase).
-- [Holy Bolt](https://diablo.fandom.com/wiki/Holy_Bolt) (synergy skill to Fist of the Heavens: +15% Holy Bolt damage per level; if Fist of the Heavens is used much more than Blessed Hammer, then maximize this instead of Concentration).
+
+- [Blessed Aim](https://diablo.fandom.com/wiki/Blessed_Aim) (synergy skill to Blessed Hammer: +14% magic damage per level; may not be able to maximize this eventually).
 
 
 Add 1 point to each of the following skills:
+
+- [Concentration](https://diablo.fandom.com/wiki/Concentration) (synergy skill to Blessed Hammer: +50% of efficiency damage increase; essentially determines the actual chance that a hammer can hit a target).
+
 - all necessary passby skills.
+
 
 
 **Remarks**: 
 
 1. Fist of the Heavens (FOTH) is very effective against large groups of demons and undead, since every shot blows one Holy Bolt towards every enemy in the screen and can pass through it to hit those behind. Therefore, each enemy may get hit by multiple Holy Bolts. FOTH has cooldown and thus does not benefit from faster cast rate. However, the cooldown is only 0.4 second (about 10 frames). FOTH cannot attack animals such as cows. Switch to Blessed Hammer for such enemies.
 
-2. Blessed Hammer (BH) is very powerful against all enemies except those immune to magic, which are very limited in D2R. Switch to FOTH (for groups of targets) or Holy Bolts (for single targets) for magic-immune enemies. Blessed Hammer needs 125% faster cast rate. A hammer starts from 9 clock position of the Paladin and spirals clockwise for 2.5 circles with gradually increasing radius. If the Paladin wants to hit a nearby enemy (such as act boss), he should usually stand at 6 clock location of the enemy (right on the south side of the enemy).
+2. Holy Shock is also a synergy skill that increases the lightning damage of FOTH. However, the lightning only hits the target that receives the FOTH, and it is the Holy Bolts that make the most area damage. Therefore, we do not need to invest skill points on it.
 
-3. Holy Bolt is effective against single non-animal targets. It can also heal allies when hitting them.
+3. Blessed Hammer (BH) is very powerful against all enemies except those immune to magic, which are very limited in D2R. Use FOTH (for groups of targets) or Holy Bolts (for single targets) for magic-immune enemies. Blessed Hammer needs 125% faster cast rate. A hammer starts from 9 clock position of the Paladin and spirals clockwise for 2.5 circles with gradually increasing radius. If the Paladin wants to hit a nearby enemy (such as an Act boss), he should usually stand at 6 clock location of the enemy (right on the south side of the enemy).
 
-4. Keep Concentration Aura on when using Blessed Hammer for maximum efficiency: the chance that Blessed Hammer hits enemies, despite it visually does or not, is affected by the level of Concentration. 
+5. Holy Bolt is effective against single non-animal targets. It can also heal allies when hitting them.
 
-5. Use Vigor in town for fast running.
+6. If BH is preferred than FOTH, then put 20 skill points to both Blessed Aim and Vigor. Note that BH is a bit more mana consusming, and it is better to get some gears, such as ring or amulet, with high mana to address this issue.
+
+7. Keep Concentration Aura on when using Blessed Hammer for maximum efficiency: the chance that Blessed Hammer hits enemies, despite it visually does or not, is affected by the level of Concentration. 
+
+8. Use Vigor in town for fast running.
  
 
 ## Gears
 
 - Shield: [Herald of Zakarum](https://diablo.fandom.com/wiki/Herald_of_Zakarum) socketed with a Um rune for its +2 All Paladin Skills, +2 All Combat Skills, +50 all resistance (+72 total with the socketed Um rune), 30% Increased Chance Of Block, 30% Faster Block Rate, +20 Strength, +20 Vitality.
  
-- Helm: Rare helm with +2 Paladin Skills, +20% Faster Cast Rate, +2 sockets with Ist runes (for a total of +50% magic find), and life.
+- Helm: Rare helm with +2 Paladin Skills, +20% Faster Cast Rate, +2 sockets with Ist runes (for a total of +50% magic find; or 2 much cheaper Perfect Topaz for a total of 48% magic find), and life.
  
 - Gloves: Magefist or [Trang-Oul's Claws](https://diablo.fandom.com/wiki/Trang-Oul%27s_Claws) for +20% faster cast rate.
  
 - Belt: [Arachnid Mesh](https://diablo.fandom.com/wiki/Arachnid_Mesh) for +1 All Skills and +20% Faster Cast Rate.
  
-- Armor: [Enigma](https://diablo.fandom.com/wiki/Enigma_Rune_Word) for +1 Teleport, +2 All Skills, +45% Faster Run/Walk, +(character level * 0.75) Strength. Increase Maximum Life 5%. Physical Damage Received Reduced By 8%, +14 Life After Each Kill, and +(character level) magic find are also useful attributes.
+- Armor: Magic Plate based with [Enigma](https://diablo.fandom.com/wiki/Enigma_Rune_Word) runeword for +1 Teleport, +2 All Skills, +45% Faster Run/Walk, +(character level * 0.75) Strength. Increase Maximum Life 5%. Physical Damage Received Reduced By 8%, +14 Life After Each Kill, and +(character level) magic find are also useful attributes.
  
 - First Ring: [Stone of Jordan](https://diablo.fandom.com/wiki/Stone_of_Jordan_(Diablo_II)) on both hands, each providing +1 All Skills, 20 mana, and +25% Maximum Mana.
 
-- Second Ring: Rare ring with +10% faster cast rate, life, and magic find.
+- Second Ring: Rare ring with +10% faster cast rate, life, mana and magic find.
  
 - Boots: [War Traveler](https://diablo.fandom.com/wiki/War_Traveler) for its 25% faster run/walk, 50 magic find, and +10 Strength.
  
 - Weapon: [Heart of the Oak](https://diablo.fandom.com/wiki/Heart_of_the_Oak_Rune_Word) for its +3 All Skills, +40% faster cast rate, +40 all resistances.
  
-- Amulet: Caster amulet with +2 All Paladin Skills, +15% Faster Cast Rate, life, magic find.
+- Amulet: Caster amulet with +2 All Paladin Skills, +15% Faster Cast Rate, life, mana, magic find.
  
 - Switch Weapon and Shield: Crystal Sword or Flail with [Call to Arms](https://diablo.fandom.com/wiki/Call_to_Arms_Rune_Word) runeword to bump all skills by 1 and life/mana for 60%+, and Paladin shield with Spirit runeword to increase the skill levels on Call of the Arm. 
  
