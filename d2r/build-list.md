@@ -20,6 +20,10 @@ This repository collects some best builds in [Diablo II Resurrected](https://dia
 
 - [Fist Hammer Paladin](./fist-hammer-paladin.md)
 
+### Necromancer
+
+- [Poison Nova Necromancer](./poison-nova-necromancer.md)
+  
 ### Sorceress
 
 - [Fire Sorceress](./fire-sorceress.html)
