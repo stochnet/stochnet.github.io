@@ -16,6 +16,10 @@ This repository collects some best builds in [Diablo II Resurrected](https://dia
 - [Bow Amazon](./bow-amazon.md)
 - [Lightning Javelin Amazon](./lightning-javelin-amazon.md)
 
+### Barbarian
+
+- [Frenzy Barbarian](./frenzy-barbarian.md)
+
 ### Paladin
 
 - [Fist and Hammer Paladin](./fist-hammer-paladin.md)
