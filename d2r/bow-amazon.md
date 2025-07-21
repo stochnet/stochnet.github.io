@@ -59,7 +59,7 @@ Add 1 point to each of the following skills:
  
 - Switch Weapon and Shield: Crystal Sword or Flail with [Call to Arms](https://diablo.fandom.com/wiki/Call_to_Arms_Rune_Word) runeword to bump all skills by 1 and life/mana for 60%+, and [Lidless Wall](https://diablo.fandom.com/wiki/Lidless_Wall_(Diablo_II)) to increase the skill levels on Call to Arms. 
  
-- Inventory: Amazon Torch, Annihilus, Cold sunder charm, grand charms and small charms with maximum damage, life, faster run/walk, and resistance.
+- Inventory: Amazon Torch, Annihilus, grand charms and small charms with maximum damage, life, faster run/walk, and resistance.
 
 **Remarks**
 1. Faith Grand Matron Bow versus [Windforce](https://diablo.fandom.com/wiki/Windforce_(Diablo_II)): While Windforce has higher maximum damage and faster attack speed, it requires an Act I mecenary to wield Faith runeword for the Fanaticism Aura. However the the increased damage attribute of this aura has only half of the effect on Amazon as an ally. Moreover, Act I mecenaries do not provide any other aura, and they freqently run away from the Amazon such that the latter is out of the range of the Fanaticism aura. Overall it is better that the Amazon holds the Faith by herself.
