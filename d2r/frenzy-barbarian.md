@@ -4,13 +4,13 @@
 
 # Frenzy Barbarian build
 
-Bow Amazon build was one of the most classic and fun builds in D2R. The damage of this build was greatly reduced, but it remains a very fun build to play and feels very different from other builds.
+Frenzy Barbarian is a physical-damage based build that can solo everywhere (often slowly) in 8-player games.
 
 ## Character stats
 
-- Strength: Enough to wear all gears (particularly bow).
-- Dexterity: All other points. This determines the damage of this build.
-- Vitality: None.
+- Strength: Enough for gears.
+- Dexterity: Enough for gears.
+- Vitality: All other points. 
 - Energy: None.
 
 ## Skills
