@@ -16,6 +16,11 @@ This repository collects some best builds in [Diablo II Resurrected](https://dia
 - [Bow Amazon](./bow-amazon.md)
 - [Lightning Javelin Amazon](./lightning-javelin-amazon.md)
 
+### Assassin
+
+- [Phoenix Strike Assassin](./phoenix-strike-assassin.md)
+
+  
 ### Barbarian
 
 - [Frenzy Barbarian](./frenzy-barbarian.md)
