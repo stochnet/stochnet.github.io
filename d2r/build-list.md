@@ -19,11 +19,15 @@ This repository collects some best builds in [Diablo II Resurrected](https://dia
 ### Assassin
 
 - [Phoenix Strike Assassin](./phoenix-strike-assassin.md)
-
+- [Trap Assassin](./trap-assassin.md)
   
 ### Barbarian
 
 - [Frenzy Barbarian](./frenzy-barbarian.md)
+
+### Druid
+
+- [Fire Druid](./fire-druid.md)
 
 ### Paladin
 
