@@ -5,7 +5,7 @@
 
 # Poison Nova Necromancer build
 
-Poison Nova Necromancer is a special spell-and-run build that solo everywhere in 8-player games.
+Poison Nova Necromancer is a special spell-and-run build that can solo everywhere in 8-player games.
 
 ## Character stats
 
@@ -37,9 +37,9 @@ Add 1 point to each of the following skills:
 
 **Remarks**: 
 
-1. In battles, spell Lower Resist (it has very large effect range) on enemies to reduce their resistance to poison, spell Poison Nova to hit everyone and then teleport away. No need to wait. It may a few seconds for them to die.
+1. In battles, spell Lower Resist (it has very large effect range) on enemies to reduce their resistance to poison, spell Poison Nova to hit everyone and then teleport away. No need to wait if it is a low-player game. It may take a few seconds for them to die.
 
-2. If one Poison Nova is not enough, keep teleporting around the enemies and spell Poisson Nova once in a while. Keep the Necromancer safe by the revives and golem.
+2. If one Poison Nova is not enough, keep teleporting around the enemies and spell Poisson Nova once in a while. Keep the Necromancer safe by using the revives and golem.
 
 3. Use Corpse Explosion to help the killings. However, in 8-player games, Corpse Explosion is not very effective as it only makes damage equal to the corpse life in 1-player game (100%) while the enemies have 450% of their life now.
 
@@ -53,9 +53,9 @@ Add 1 point to each of the following skills:
  
 - Gloves: [Trang-Oul's Claws](https://diablo.fandom.com/wiki/Trang-Oul%27s_Claws) for +20% faster cast rate, +25% poison damage, +2 Curse skills, and +30% cold resistance. With the set belt and shield, it provides an additional 30% mana regeneration.
  
-- Belt: [Trang-Oul's Girth](https://diablo.fandom.com/wiki/Trang-Oul%27s_Girth) for its +66 To Life, +50 Mana, Cannot Be Frozen. While these are not impressive, this belt is the only worthy one (the helm and armor cannot be better than the ones listed here) in the Trang-Oul's Avatar set that can make up three items for Trang-Oul's Wing to have an additional -25% enemy poison resistance on the shield. The gloves also gets an additional +40% cold resistance.
+- Belt: [Trang-Oul's Girth](https://diablo.fandom.com/wiki/Trang-Oul%27s_Girth) for its +66 To Life, +50 Mana, Cannot Be Frozen. While these are not impressive, this belt is the only worthy one (the set helm and armor cannot be better than the ones listed here) in the Trang-Oul's Avatar set that can make up three items for Trang-Oul's Wing to have an additional -25% enemy poison resistance on the shield. The gloves also gets an additional +40% cold resistance.
  
-- Armor: Magic Plate based with [Enigma](https://diablo.fandom.com/wiki/Enigma_Rune_Word) runeword for +1 Teleport, +2 All Skills, +45% Faster Run/Walk, +(character level * 0.75) Strength. Increase Maximum Life 5%. Physical Damage Received Reduced By 8%, +14 Life After Each Kill, and +(character level) magic find are also useful attributes.
+- Armor: Magic Plate base with [Enigma](https://diablo.fandom.com/wiki/Enigma_Rune_Word) runeword for +1 Teleport, +2 All Skills, +45% Faster Run/Walk, +(character level * 0.75) Strength. Increase Maximum Life 5%. Physical Damage Received Reduced By 8%, +14 Life After Each Kill, and +(character level) magic find are also useful attributes.
  
 - First Ring: Rare ring with +10% faster cast rate, life, mana and resistances (especially lightning and poison).
 
