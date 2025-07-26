@@ -26,24 +26,30 @@ Add 20 points to each of the following skills:
 
 Add 1 point to each of the following skills:
 
-- [Revive](https://diablo.fandom.com/wiki/Revive) (revives distract enemies).
-- [Skeleton Mastery](https://diablo.fandom.com/wiki/Skeleton_Mastery) (improve revives' life and defense).
+- [Revive](https://diablo.fandom.com/wiki/Revive) (raise revives to distract enemies).
+- [Skeleton Mastery](https://diablo.fandom.com/wiki/Skeleton_Mastery) (improve revives' life, damage and defense).
 - [Iron Golem](https://diablo.fandom.com/wiki/Iron_Golem) (raise a golem to distract enemies).
-- [Golem Mastery](https://diablo.fandom.com/wiki/Golem_Mastery) (increase golem's life).
-- [Lower Resist](https://diablo.fandom.com/wiki/Lower_Resist) (assistant skill to lower enemies' poison resistance).
+- [Golem Mastery](https://diablo.fandom.com/wiki/Golem_Mastery) (increase golem's life and run speed).
+- [Lower Resist](https://diablo.fandom.com/wiki/Lower_Resist) (important assistant skill to lower enemies' poison resistance).
 - all necessary passby skills.
 
 
 
 **Remarks**: 
 
-1. In battles, spell Lower Resist (it has very large effect range) on enemies to reduce their resistance to poison, spell Poison Nova to hit everyone and then teleport away. No need to wait if it is a low-player game. It may take a few seconds for them to die.
+1. In battles, spell Lower Resist (it has a very large effect range) on enemies to reduce their resistance to poison, spell Poison Nova to hit everyone and then teleport away. No need to wait if it is a low-player game. It may take a few seconds for them to die.
 
-2. If one Poison Nova is not enough, keep teleporting around the enemies and spell Poisson Nova once in a while. Keep the Necromancer safe by using the revives and golem.
+2. Poison damage can only refresh but not stack. Therefore, it is not useful to spell Poison Nova continuously on the same targets. The poison usually cause the specified damage over 2 seconds.
 
-3. Use Corpse Explosion to help the killings. However, in 8-player games, Corpse Explosion is not very effective as it only makes damage equal to the corpse life in 1-player game (100%) while the enemies have 450% of their life now.
+3. If one Poison Nova is not enough, keep teleporting around the enemies and spell Poisson Nova once in a while. Keep the Necromancer safe by using the revives and golem.
 
-4. Can use Iron Golem converted from a poleaxe with Insight runeword. In this case, invest some skill points to Golem Mastery to increase its life or it can die frequently.
+4. Use Corpse Explosion to help the killings. However, in 8-player games, Corpse Explosion is not very effective as it only makes damage equal to the corpse life in 1-player game (100%) while the enemies have 450% of their life now.
+
+5. The revives can be used to distract enemies and keep the Necromancer safter. However, note that the Necromancer usually move by teleport, and it is an issue with the game that the revives will stuck at the new teleport location and do not attack unless the Necromancer run away. Therefore, it is necessary to teleport to a safe location and let the Necromancer to move away a bit for the revives to move.
+
+6. Can raise an Iron Golem to fight for you. If this build hires an Act II Mercenary wielding Insight for Meditation Aura, then the Iron Golem can be raised from any weapon/armor available once it dies.
+
+7. Can also use Iron Golem converted from a poleaxe with Insight runeword. In this case, invest some skill points to Golem Mastery to increase its life or otherwise it can die too frequently. It is not so easy to keep making new Insight (the base and runes are not always available).
 
 ## Gears
 
@@ -67,7 +73,7 @@ Add 1 point to each of the following skills:
  
 - Amulet: Caster amulet with +2 Necromancer Skills, +15% Faster Cast Rate, life, mana, resistance (espeically lightning and poison).
  
-- Switch Weapon and Shield: Crystal Sword or Flail with [Call to Arms](https://diablo.fandom.com/wiki/Call_to_Arms_Rune_Word) runeword to bump all skills by 1 and life/mana for 60%+, and shield with Spirit runeword to increase the skill levels on Call of the Arm. 
+- Switch Weapon and Shield: Crystal Sword or Flail with [Call to Arms](https://diablo.fandom.com/wiki/Call_to_Arms_Rune_Word) runeword to bump all skills by 1 and life/mana for 60%+, and shield with (ethereal) Spirit runeword to increase the skill levels on Call of the Arm. 
  
 - Inventory: Necromancer Torch, Annihilus, Poison sunder charm, 7 poison and bone skill grand charms with life or Faster Hit Recovery, small charms with resistance and life.
 
@@ -81,7 +87,7 @@ Add 1 point to each of the following skills:
 
 4. +45% poison damage: +10% from helm, +5% from weapon, +5% from shield, +25% from gloves.
 
-
+5. [Sandstorm Trek](https://diablo.fandom.com/wiki/Sandstorm_Trek) is also an excellent pair of boots for this build for its +70% poisson resistance (to compoensate the penalty of poison sunder charm), 20% faster run/walk speed, 20% faster hit recovery, strength (to help equip a Monarch shield on switch hand) and vitality. The build neds to find more lightning and fire resistgances from rings, amulet, and helm.
  
 ## Mercenary
 
@@ -99,9 +105,15 @@ If having an Iron Golem converted from Insight runeword, then one can hire an Ac
 - Shield: Ethereal Monach shield with Spirit runeword for its +2 all skills, +35% faster cast rate, and resistances. Mecenaries cannot block so it is unnecessary to equip the Jewlerer's Monarch of Reflection with 4 lightning facets. A standard monarch shield with 4 lightning facets is fine but it is more expensive and loses some range of Static Field.
 - Armor: Skin of the Vipermagi for its +1 all skills, +30% faster cast rate, and +35 all resistances. Add a socket with lightning facet.
 
-Although this mecenary does not provide any aura, he can spell Static Field which can effectively reduce enemies' life. Hence the gears should be mostly on increasing skill level and reducing enemy lightning resistance.
+Although this mecenary does not provide any aura, he can spell Static Field which can effectively reduce enemies' life. Hence the gears should be mostly on increasing skill level and reducing enemy lightning resistance, which makes a good combination with the Lower Resist curse spelled by the Necromancer.
+
+However, Iron Golem and Act III mecenary are not very tough. Be aware of their life and teleport away if they are about to die. In contrast, the combination of Act II mecenary and Iron Golem raised from randomly picked weapon/armor gives a more relaxing play style.
 
 ## Summary 
 - Attack: Use Lower Resist curse and multiple Poisson Nova to kill enemies. May use Corpse Explosion to help the killings. Raise Iron Golem and revives to distract enemies and keep the Necromancer safe.
 - Survivability: All resistances should reach 75%. 
 - Supply: Mana can be regenerated quickly due to the Meditation Aura from the mercenary (or Iron Golem). Life can be slowly regenerated by the combination of Prayer Aura, Cleansing Aura, and Meditation Aura from the mercenary. 
+
+## Additional Notes
+
+- This build is not suitable for playing on controller, because the Necromancer usually needs to teleport to places not too close to enemies, while using a controller the Necromancer usually teleports right next to some enemy.
