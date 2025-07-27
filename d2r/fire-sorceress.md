@@ -90,7 +90,7 @@ Use Act II Mercenary with [Defiance Aura](https://diablo.fandom.com/wiki/Defianc
 
 **Remarks:** 
 
-1. The combination of [Andariel’s Visage](https://diablo.fandom.com/wiki/Andariel%27s_Visage_(Diablo_II)) and [Fortitude](https://diablo.fandom.com/wiki/Fortitude_Rune_Word) runeword can be an alternative for high defense at the cost of losing the Cleansing Aura.
+1. The combination of [Andariel’s Visage](https://diablo.fandom.com/wiki/Andariel%27s_Visage_(Diablo_II)) and [Fortitude](https://diablo.fandom.com/wiki/Fortitude_Rune_Word) runeword can be an alternative for high defense at the cost of the Cleansing Aura.
 
 2. The [Holy Freeze Aura](https://diablo.fandom.com/wiki/Holy_Freeze) will freeze enemies which will not have corpses left after being killed. This makes negative effect to the Redemption Aura.
  
